@@ -1,0 +1,17 @@
+{
+  "name": "js-vanilla-page",
+  "version": "1.0.0",
+  "description": "This is a javascript vanilla page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "franciszekamataio@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.6.1",
+    "sass": "^1.55.0",
+    "sweetalert": "^2.1.2"
+  }
+}
