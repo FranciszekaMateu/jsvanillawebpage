@@ -107,7 +107,7 @@ function showCarrito()
         </div>`
         totalPrecio += carrito[index].precio
         }
-        totalcarrito.innerHTML += `<h2>Precio :${totalPrecio}</h2>`
+        totalcarrito.innerHTML += `<h2>Precio Total :${totalPrecio}</h2>`
     }
     console.log(totalcarrito)
     let mySwal = function() {
